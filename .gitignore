@@ -101,3 +101,6 @@ ENV/
 
 # mkdocs documentation
 /site
+
+# from udemy course 
+DataSciNotebooks/
