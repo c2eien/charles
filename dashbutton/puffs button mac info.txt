@@ -1,0 +1,5 @@
+
+Serial Number	G030MN0371037298
+MAC Address	6837E96BFC81
+Firmware	60019520_US
+Battery	100
